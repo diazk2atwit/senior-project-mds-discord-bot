@@ -2,7 +2,7 @@
  
 ## Purpose
 
-Discord Bot that allows users to scan hyperlinks and files to detect malware via the text channels
+Allows users to scan hyperlinks and files to detect malware via the text channels
 
 ## Installation
 
@@ -10,10 +10,10 @@ You can invite the bot to your discord server here: [Bot Invite Link](https://di
 
 ## Usage
 
-**@MDS [Hyperlink]**
+**@MDS [Hyperlink]**   
 **@MDS [File Attachment]**
 
 
 ## Example
 
-![screenshot](./public/results-discord zip file.jpg)
+![screenshot](./public/results1.jpg)
